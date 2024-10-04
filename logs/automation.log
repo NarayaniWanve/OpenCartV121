@@ -1,0 +1,48 @@
+08-54:00.603[main] INFO  testCases.AccountRegistrationTest - Providing Customer Details
+08-54:01.909[main] INFO  testCases.AccountRegistrationTest - Validating expected message.
+08-54:05.232[main] INFO  testCases.AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+08-57:06.422[main] INFO  testCases.AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+08-57:06.536[main] INFO  testCases.AccountRegistrationTest - Clicked On MyAccount Link..
+08-57:08.012[main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+08-57:08.019[main] INFO  testCases.AccountRegistrationTest - Providing Customer Details
+08-57:09.223[main] INFO  testCases.AccountRegistrationTest - Validating expected message.
+08-57:11.676[main] INFO  testCases.AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+08-57:31.267[main] INFO  testCases.LoginTest - **** Starting Login Test ****
+10-24:17.719[main] INFO  testCases.AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+10-24:21.138[main] INFO  testCases.AccountRegistrationTest - Clicked On MyAccount Link..
+10-24:27.693[main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+10-24:27.835[main] INFO  testCases.AccountRegistrationTest - Providing Customer Details
+10-24:30.174[main] INFO  testCases.AccountRegistrationTest - Validating expected message.
+10-24:36.612[main] INFO  testCases.AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+10-25:01.909[main] INFO  testCases.LoginTest - **** Starting Login Test ****
+17-07:28.816[main] INFO  testCases.AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+17-07:29.802[main] INFO  testCases.AccountRegistrationTest - Clicked On MyAccount Link..
+17-07:34.162[main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+17-07:34.234[main] INFO  testCases.AccountRegistrationTest - Providing Customer Details
+17-07:37.380[main] INFO  testCases.AccountRegistrationTest - Validating expected message.
+17-07:42.363[main] INFO  testCases.AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+17-07:57.232[main] INFO  testCases.LoginTest - **** Starting Login Test ****
+17-10:17.596[main] INFO  testCases.AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+17-10:17.790[main] INFO  testCases.AccountRegistrationTest - Clicked On MyAccount Link..
+17-10:18.585[main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+17-10:18.632[main] INFO  testCases.AccountRegistrationTest - Providing Customer Details
+17-10:20.080[main] INFO  testCases.AccountRegistrationTest - Validating expected message.
+17-10:25.809[main] INFO  testCases.AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+17-10:35.851[main] INFO  testCases.LoginTest - **** Starting Login Test ****
+17-14:22.894[main] INFO  testCases.AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+17-14:22.992[main] INFO  testCases.AccountRegistrationTest - Clicked On MyAccount Link..
+17-14:23.926[main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+17-14:23.928[main] INFO  testCases.AccountRegistrationTest - Providing Customer Details
+17-14:25.522[main] ERROR testCases.AccountRegistrationTest - Test Failed
+17-15:38.362[main] INFO  testCases.AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+17-15:38.472[main] INFO  testCases.AccountRegistrationTest - Clicked On MyAccount Link..
+17-15:39.470[main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+17-15:39.472[main] INFO  testCases.AccountRegistrationTest - Providing Customer Details
+17-15:41.155[main] ERROR testCases.AccountRegistrationTest - Test Failed
+17-17:06.491[main] INFO  testCases.AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+17-17:06.592[main] INFO  testCases.AccountRegistrationTest - Clicked On MyAccount Link..
+17-17:07.569[main] INFO  testCases.AccountRegistrationTest - Clicked on Register Link
+17-17:07.571[main] INFO  testCases.AccountRegistrationTest - Providing Customer Details
+17-17:08.523[main] INFO  testCases.AccountRegistrationTest - Validating expected message.
+17-17:09.821[main] INFO  testCases.AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+17-17:15.567[main] INFO  testCases.LoginTest - **** Starting Login Test ****
